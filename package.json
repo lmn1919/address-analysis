@@ -1,0 +1,11 @@
+{
+  "name": "address-analysis",
+  "version": "1.0.1",
+  "description": "地址智能识别",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
