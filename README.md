@@ -14,7 +14,7 @@ let { getAddress } =require('address-analysis')
 //ES6
 import { getAddress } from 'address-analysis'
 
-console.log(getAddress('广东省广州市番禺区大石街道会江村，刘发福'))
+console.log(getAddress('广东省广州市番禺区大石街道会江村110号，刘发福'))
 
 {address : "会江村110号",
  city : "广州市",
